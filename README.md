@@ -2,6 +2,6 @@
 
 This repository has been created for daily progress monitoring and motivation purposes
 
-Click **Demo [here](https://ersinisgor.github.io/everyday-coding/index.html)**
+Click **Demo [here](https://ersinisgor.github.io/everyday-coding/)**
 
 I got this idea from <em>Gizem Korkmaz.</em> You can see her **github page [here](https://github.com/gizemnkorkmaz)**
